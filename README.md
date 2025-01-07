@@ -27,12 +27,12 @@
 ![image](https://github.com/user-attachments/assets/8a263cd4-e46b-4c40-a674-cd35ce5e0876)
  9. Revenue Comparison Between Occasions: Compare revenue generated across
  different occasions.
-![image](https://github.com/user-attachments/assets/9312a763-101f-4875-b753-0acf6f496a99)
+![image](https://github.com/user-attachments/assets/a047b692-88c4-47b4-a87e-607aef360095)
 
 ```sql
    This result implies that higher order quantities do not significantly impact delivery times in a linear manner.
   ```
- 11. Product Popularity by Occasion: Identify which products are most popular during
+ 10. Product Popularity by Occasion: Identify which products are most popular during
  specific occasions
 #### - Anniversary
 ![image](https://github.com/user-attachments/assets/f4dc65b8-537e-4047-88dd-d95409007acf)
