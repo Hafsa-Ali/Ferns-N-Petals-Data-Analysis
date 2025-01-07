@@ -25,13 +25,12 @@
  8. Order Quantity vs. Delivery Time: Analyze if higher order quantities impact delivery
  times.
 ![image](https://github.com/user-attachments/assets/8a263cd4-e46b-4c40-a674-cd35ce5e0876)
- 9. Revenue Comparison Between Occasions: Compare revenue generated across
- different occasions.
-![image](https://github.com/user-attachments/assets/a047b692-88c4-47b4-a87e-607aef360095)
-
 ```sql
    This result implies that higher order quantities do not significantly impact delivery times in a linear manner.
   ```
+ 9. Revenue Comparison Between Occasions: Compare revenue generated across
+ different occasions.
+![image](https://github.com/user-attachments/assets/a047b692-88c4-47b4-a87e-607aef360095)
  10. Product Popularity by Occasion: Identify which products are most popular during
  specific occasions
 #### - Anniversary
@@ -49,3 +48,7 @@
 
 ## Dashboard
 ![image](https://github.com/user-attachments/assets/ed136c8c-bfe2-4961-8523-93bd4de83403)
+## Insights:
+The dashboard provides an insightful analysis of Ferns N Petals (FNP) sales data. It highlights key metrics such as total revenue of Rs 3,520,984, 1000 total orders, an average order-to-delivery time of 5.53 days, and average customer spending of Rs 3,520.98. 
+Revenue trends are visualized by occasions, categories, months, and hours of the day. Notably, anniversaries and Rakhsha Bandhan generate the highest revenues among occasions, while Colors and Soft Toys dominate the category-wise revenue. Feb and September emerge as peak months for sales.
+The top-performing products and cities by revenue and orders are also showcased. The "Magnam Set" and "Quia Gift" are popular products, while cities like Dhanbad and Imphal rank highest for orders. The dashboard enables dynamic filtering by delivery date, order date, and occasion, providing deeper analytical insights for business strategies.
