@@ -34,7 +34,8 @@
  10. Product Popularity by Occasion: Identify which products are most popular during
  specific occasions
 #### - Anniversary
-![image](https://github.com/user-attachments/assets/f4dc65b8-537e-4047-88dd-d95409007acf)
+![image](https://github.com/user-attachments/assets/f0969024-2389-4825-ad54-7645194c0cbc)
+
 #### - Birthday
 ![image](https://github.com/user-attachments/assets/baf0d44a-efed-473d-a727-09d1e1fbc061)
 #### - Dewali
@@ -46,6 +47,15 @@
 #### - Valentines Day
 ![image](https://github.com/user-attachments/assets/2f52f87b-6eb7-4853-9fa2-a0397a9f9acf)
 
+## Tools & Techniques Used:
+### -Power Query Editor: For ETL and data transformation.
+### -Power Pivot: For data modeling and relationships.
+![image](https://github.com/user-attachments/assets/87fc65dd-b0f0-41b8-bc37-f2734576ad21)
+### -DAX: To calculate revenue and extract key metrics like days from order dates.
+![image](https://github.com/user-attachments/assets/ba97b868-b6ce-4660-abdf-ec5dd641a86e)
+![image](https://github.com/user-attachments/assets/1d90cc79-4da6-4aac-858a-649bfc1bf62a)
+### -Pivot Tables, Slicers & Timeline: To create a fully dynamic and interactive dashboard.
+![image](https://github.com/user-attachments/assets/3d11a32f-2323-4311-9744-92b3d668968e)
 ## Dashboard
 ![image](https://github.com/user-attachments/assets/ed136c8c-bfe2-4961-8523-93bd4de83403)
 ## Insights:
